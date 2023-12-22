@@ -37,4 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-        python3 -m unittest arithmetic_progression with unittests.py
+        python3 -m arithmetic_progression with unittests.py
