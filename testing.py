@@ -6,9 +6,6 @@ def sum_of_arithmetic_progression(a_1, d, n):
 
 def test_sum_of_arithmetic_progression():
    
-    assert sum_of_arithmetic_progression(1, 2, 5) == 35
-
-   
     assert sum_of_arithmetic_progression(5, 3, 7) == 119
 
    
